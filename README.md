@@ -37,7 +37,7 @@ Floristic 是一个基于 SDF（Signed Distance Function）的、完全开放的
 
 * **与其他模组协作**：通过 KubeJS 与其他模组联动
 ## 🏗️ 架构概览
-###Floristic Core
+### Floristic Core
 
 ├── SDF 算法库
 
