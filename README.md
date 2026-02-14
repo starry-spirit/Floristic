@@ -1,8 +1,8 @@
 # 🍃Floristic - 让大地穿上会呼吸的衣服
 Floristic 是一个基于 SDF（Signed Distance Function）的、完全开放的植被生成平台，让任何人都能用 JSON 定义数学定义的树木，并与 Tectonic 的地形无缝共存。
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Minecraft-1.20.1-success
-https://img.shields.io/badge/Forge-47.1.0-orange
+https://img.shields.io/badge/License-MIT-yellow.svg -
+https://img.shields.io/badge/Minecraft-1.20.1-success -
+https://img.shields.io/badge/Forge-47.1.0-orange -
 ## ✨ 核心特性
 ### 🌳 数学定义的树木
 * **不再有预制结构**：每棵树都由 SDF 数学公式实时生成
