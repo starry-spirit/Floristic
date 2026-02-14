@@ -1,5 +1,5 @@
 # 🍃Floristic - 让大地穿上会呼吸的衣服
-Floristic 是一个基于 SDF（Signed Distance Function）的、完全开放的植被生成平台，让任何人都能用 JSON 定义数学定义的树木，并与 Tectonic 的地形无缝共存。
+Floristic 是一个基于 SDF（Signed Distance Function）的、完全开放的植被生成平台，让任何人都能用 JSON 定义数学定义的树木，解决原版jigsaw树木生成机制造成的单一化缺点，增加mc原版树木的多元化和美观。
 
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Static Badge](https://img.shields.io/badge/Minecraft-1.20.1-success)
@@ -94,33 +94,33 @@ Floristic Core
 
 * （⭐**可选**⭐）安装 KubeJS 获得动态配置能力
 ## 📚 文档
-完整文档
+完整文档：
 
-SDF 形状参考
+SDF 形状参考：
 
-LOD 配置指南
+LOD 配置指南：
 
-KubeJS 集成
+KubeJS 集成：
 
-API 文档
+API 文档：
 
 ## 🤝 贡献
-Floristic 是一个开放平台，欢迎所有形式的贡献：
+**Floristic 是一个开放平台**，欢迎所有形式的贡献：
 
-提交 Issue：报告 bug 或提出新功能
+**提交 Issue**：报告 bug 或提出新功能
 
-Pull Request：改进代码或文档
+**Pull Request**：改进代码或文档
 
-分享配置：把你创造的树木分享给社区
+**分享配置**：把你创造的树木分享给社区
 
-写教程：帮助更多人上手
+**写教程**：帮助更多人上手
 
 ## 📄 许可证
-MIT License © 2024 [Elyuis]
+**MIT License © 2024 [Elyuis]**
 
 ## 🙏 致谢
-Tectonic 团队，启发了开放平台的设计理念
+**Tectonic 团队**，启发了开放平台的设计理念
 
-BCLib 团队，SDF 算法的先驱
+**BCLib 团队**，SDF 算法的先驱
 
-Minecraft Forge 社区，提供技术支持
+**Minecraft Forge 社区**，提供技术支持
