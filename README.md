@@ -39,29 +39,53 @@ Floristic 是一个基于 SDF（Signed Distance Function）的、完全开放的
 ## 🏗️ 架构概览
 Floristic Core
 ├── SDF 算法库
+
 │   ├── 基础图元（球体、圆锥、圆柱、样条曲线）
+
 │   ├── 布尔运算（并集、差集、交集、平滑并集）
+
 │   └── 变换（平移、旋转、缩放、扭曲）
+
 │
+
 ├── LOD 框架
+
 │   ├── 感知层（监控玩家位置、TPS、区块状态）
+
 │   ├── 决策层（动态决定生成精度）
+
 │   └── 执行层（按 LOD 等级生成树木）
+
 │
+
 ├── Feature 系统
+
 │   ├── SDFTreeFeature（原版 Feature 实现）
+
 │   ├── SDFTreeConfig（JSON 配置类）
+
 │   └── TreeRegistry（注册自定义树木类型）
+
 │
+
 ├── 缓存系统
+
 │   ├── 树形缓存（重复配置免计算）
+
 │   ├── 区块缓存（预生成结果）
+
 │   └── LOD 缓存（不同精度版本）
+
 │
+
 └── API 层
+
     ├── Java API（供模组开发者扩展）
+    
     ├── JSON Schema（供整合包作者配置）
+    
     └── KubeJS 绑定（供脚本动态调整）
+    
 ## 📦 快速开始
 安装
 下载 Floristic 模组，放入 mods 文件夹
